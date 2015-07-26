@@ -1,0 +1,25 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Beta%
+}{%
+Beta%
+}{%
+{\protect \APACyear {1900}}%
+}]{%
+A}
+\APACinsertmetastar {%
+A}%
+\begin{APACrefauthors}%
+Beta.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1900}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Alpha}} {{Alpha}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Gamma}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

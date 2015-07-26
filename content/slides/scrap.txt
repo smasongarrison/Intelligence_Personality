@@ -1,0 +1,146 @@
+\subsection{Confounds}\begin{frame}[fragile]{Genetic and Environmental Confounds}
+\begin{itemize}\item However, within this area the vast majority of studies do not control for genetic and environmental confounds (See Harden, 2014).\smallskip
+\item Excluding such confounds makes these results uninterpretable, and risks misattributions of causality {\tiny (Rowe \& Rodgers, 1997; Rutter, 2007).
+\end{itemize}\begin{center} \begin{tikzpicture}[scale=.5,variance/.style={<->, >=stealth', bend left=260, looseness=2}]
+\tikzstyle{every node}=[scale=.5];
+\path (0:6cm) node[draw,shape=circle,minimum size=1.8cm] (A) {AFI};
+\path (0:0cm) node[draw,shape=circle] (I) {Intelligence};
+\path node[draw,shape=circle,below =of I,minimum size=1.8cm,below=1cm] (C) {Confounds};
+\path (0:3cm) node[label={0}] (l1) {};
+\draw[-latex,thin,>=stealth'] (I) -- (A);
+\path node[below =of l1,label={+},below=.9cm] (2) {};
+\draw [variance,ultra thick] (I.west) to node (l2)[swap] {} (C.west);
+\path node[left =of l2,left=.2cm,label={+}] (l3) {};
+\draw[-latex,ultra thick,>=stealth',] (C) -- (A);
+%\draw[-latex,ultra thick,] (C) -- (I);
+\end{tikzpicture}\end{center}\begin{itemize}
+\end{itemize}
+\end{frame}
+\begin{frame}[fragile]{Genetic and Environmental Confounds}
+\begin{itemize}\item Indeed, intelligence and AFI have sizable genetic and shared environmental variances {\tiny(Harden \& Mendle, 2011)}.\smallskip
+\item Using a twin sample, Harden \& Mendle (2011) found that the relationship between intelligence and AFI was fully mediated through shared environmental differences.
+\end{itemize}
+\end{frame}
+\section{Hypotheses}\subsection{ }
+\begin{frame}[fragile]{Hypotheses}
+\begin{itemize}
+\item We wanted to know whether the Harden \& Mendle (2011) results would hold using a different design and data set.\smallskip
+\item We examined the relationship between AFI and Intelligence using siblings and their children from a multigenerational nationally representative sample.\smallskip
+\item Specifically, we addressed the following questions:\smallskip
+\begin{itemize}\item Does intelligence (mother or child) predict child AFI, after controlling for gene and environmental confounds?\smallskip
+\item Is this relationship consistent between-- and within--families?
+\end{itemize}
+\end{itemize}
+\end{frame}
+\section{Methods}
+\subsection{Data}
+\begin{frame}[fragile]{Data}
+\begin{itemize}
+\item The National Longitudinal Survey of Youth 1979 (NLSY79) is a nationally representative household probability sample. 
+\item In 1980, 12,686 adolescents between the ages of 14 and 22 were surveyed on a battery of measures, including the Armed Forces Vocational Aptitude Battery (ASVAB).\smallskip 
+\item Children of the NLSY79 women were surveyed beginning in 1986. They completed multiple intelligence measures, including the PIAT Math and Reading.\smallskip
+\item As of 2012, there are 11,512 children, of which 6,060 reported viable AFIs.
+\end{itemize}
+\begin{tabular}{@{\extracolsep{1pt}}lcccc} 
+\\[-1.8ex] & \\ 
+&  \multicolumn{2}{c}{Gen 1} & \multicolumn{2}{c}{Gen 2} \\ \\
+&  Females & Males & Females & Males \\  
+\hline \\[-1.8ex] 
+ Year Born & 1960.32 & --- & 1986.07 & ---\\ 
+ AFI & 18.51 (2.12) & 17.16 (2.33) & 16.51 (2.10) & 15.91 (2.16)\\
+\hline \\[-1.8ex] 
+\end{tabular} 
+\end{frame}
+
+\subsection{Design}
+\begin{frame}[fragile]{Design} 
+\begin{itemize}\item We (2014) adapted Kenny's (2001) reciprocal standard dyad model.\\
+\begin{align*}
+&&\widehat{Y}_{diff} &= \beta_{0} + \beta_{1}\bar{Y} + \beta_{2}\bar{X} + \beta_{3}X_{diff}\\[2.5mm] 
+ \text{where,}&&Y_{diff} &= Y_{1i}-Y_{2i} \text{;  } \bar{Y} = \frac{Y_{1i}+Y_{2i}}{2} \\[2.5mm] 
+&&X_{diff} &= X_{1i}-X_{2i} \text{; } \bar{X} = \frac{X_{1i}+X_{2i}}{2} 
+\end{align*}
+\end{itemize}
+\end{frame}
+\begin{frame}[fragile]{Design} 
+\begin{itemize}\item The relative difference in outcomes ($\widehat{Y}_{diff}$) is predicted from\smallskip
+\begin{itemize}\item the mean level of the outcome ($\bar{Y}$),\smallskip 
+\item the mean level of the predictor ($\bar{X}$), and \smallskip\item the between-kin predictor difference ($X_{diff}$).\end{itemize}\smallskip
+\item The mean levels support causal inference through at least partial control for genes and shared environment. \smallskip
+\item Therefore, we simultaneously evaluate the individual difference ($X_{diff}$) and the joint contribution of genes and shared environment ($\bar{Y}$ \& $\bar{X}$).\end{itemize}
+\end{frame}
+\section{Results}
+\subsection{Traditional Approach}\subsubsection{Gen1}
+\begin{frame}[fragile]{Mean Mother Intelligence $\rightarrow$ Mean Child AFI}\begin{center}
+<<echo=FALSE, comment=NA, results='asis'>>=
+stargazer(model.meanmoms,model.meanmoms.g,model.meanmoms.b,font.size="small",no.space=FALSE,style="demography",column.sep.width = "1pt",header = FALSE,star.cutoffs=.05,notes.append=FALSE, notes="$^{*}$p<0.5",omit.stat=c("ser","rsq"),covariate.labels=c("Mom Intel"), dep.var.labels=c("Mean AFI"),column.labels = c("Mixed", "Daughers", "Sons"),model.numbers=FALSE,float=FALSE,ci = FALSE,single.row = TRUE)
+@
+\end{center}
+\end{frame}
+\subsubsection{Gen2}
+\begin{frame}[fragile]{Mean Child Intelligence $\rightarrow$ Mean Child AFI}\begin{center}
+<<echo=FALSE, comment=NA, results='asis'>>=
+stargazer(model.meankids,model.meankids.g,model.meankids.b,font.size="small",no.space=FALSE,style="demography",column.sep.width = "1pt",header = FALSE,star.cutoffs=.05,notes.append=FALSE, notes="$^{*}$p<0.5",omit.stat=c("ser","rsq"),covariate.labels=c("Child Intel"), dep.var.labels=c("Mean AFI"),column.labels = c("Mixed", "Daughers", "Sons"),model.numbers=FALSE,float=FALSE,ci = FALSE,single.row = TRUE)
+@
+\end{center}
+\end{frame}
+\subsubsection{Joint}
+\begin{frame}[fragile]{Mean Joint Intelligence $\rightarrow$ Mean Child AFI}\begin{center}
+<<echo=FALSE, comment=NA, results='asis'>>=
+stargazer(model.meanmomskids,model.meanmomskids.g,model.meanmomskids.b,font.size="small",no.space=FALSE,style="demography",column.sep.width = "1pt",header = FALSE,star.cutoffs=.05,notes.append=FALSE, notes="$^{*}$p<0.5",omit.stat=c("ser","rsq"), dep.var.labels=c("Mean AFI"),column.labels = c("Mixed", "Daughers", "Sons"),model.numbers=FALSE,float=FALSE,ci = FALSE,covariate.labels=c("Mom Intel","Child Intel"),single.row = TRUE)
+@
+\end{center}
+\end{frame}
+\subsection{Discordant Approach}\subsubsection{Gen1}\begin{frame}[fragile]{Dif Mom Intelligence $\rightarrow$ Dif Child AFI}\begin{center}
+<<echo=FALSE, comment=NA, results='asis'>>=
+stargazer(model.diffmoms,model.diffmoms.g,model.diffmoms.b,font.size="small",no.space=FALSE,style="demography",column.sep.width = "1pt",header = FALSE,star.cutoffs=.05,notes.append=FALSE, notes="$^{*}$p<0.5",omit.stat=c("ser","rsq"), dep.var.labels=c("Child AFI Differences"),covariate.labels=c("Child AFI","Mom Intel", "Dif Mom Intel"),column.labels = c("Mixed", "Daughers", "Sons"),model.numbers=FALSE,float=FALSE,ci = FALSE,single.row = TRUE)
+@
+\end{center}
+\end{frame}
+\subsubsection{Gen2}\begin{frame}[fragile]{Dif Child Intelligence $\rightarrow$ Dif Child AFI}\begin{center}
+<<echo=FALSE, comment=NA, results='asis'>>=
+stargazer(model.diffkids,model.diffkids.g,model.diffkids.b,font.size="small",no.space=FALSE,style="demography",column.sep.width = "1pt",header = FALSE,star.cutoffs=.05,notes.append=FALSE, notes="$^{*}$p<0.5",omit.stat=c("ser","rsq"), dep.var.labels=c("Child AFI Differences"),covariate.labels=c("Child AFI","Child Intel", "Dif Child Intel"),column.labels = c("Mixed", "Daughers", "Sons"),model.numbers=FALSE,float=FALSE,ci = FALSE,single.row = TRUE)
+@
+\end{center}
+\end{frame}
+\subsubsection{Joint}
+\begin{frame}[fragile]{Dif Joint Intelligence $\rightarrow$ Dif Children AFI}
+<<echo=FALSE, comment=NA, results='asis'>>=
+stargazer(model.diffmomskids,model.diffmomskids.g,model.diffmomskids.b,font.size="small",no.space=FALSE,style="demography",column.sep.width = "1pt",header = FALSE,star.cutoffs=.05,notes.append=FALSE, notes="$^{*}$p<0.5",omit.stat=c("ser","rsq"), dep.var.labels=c("Child AFI Differences"),column.labels = c("Mixed", "Daughers", "Sons"),model.numbers=FALSE,float=FALSE,ci = FALSE,single.row = TRUE,covariate.labels=c("Child AFI","Child Intel","Mom Intel","Dif Child Intel","Dif Mom Intel"))
+@
+
+\end{frame}
+\section{Summary}
+\subsection{Findings}
+\begin{frame}[fragile]{Findings}
+\begin{itemize}
+\item Between families, \smallskip
+\begin{itemize}\item both child and maternal intelligence explained child AFI.\smallskip
+\item When modeled jointly, only maternal intelligence explained child AFI.\end{itemize}\smallskip
+\item Within families,\smallskip
+\begin{itemize}\item differences in maternal intelligence did not explain differences child AFI.\smallskip
+\item differences in child intelligence explained small differences in daughter AFI ($\triangle R^{2}$=.019).\smallskip
+\item When modeled jointly, differences in child intelligence \textit{still} explained small differences in daughter AFI, not son AFI.
+\begin{itemize}
+\item However, this difference can also be explained by non--shared enviromental factors that correlate with child intelligence.\end{itemize}
+\end{itemize}
+\end{itemize}
+\end{frame}
+\subsection{Acknowledgements}
+\begin{frame}[fragile]{Acknowledgements}
+\begin{itemize}
+\item Joe Rodgers \smallskip
+\item Ali Hadd \smallskip
+\item Quant Methods Program \smallskip
+%\item National Science Foundation\\
+%\includegraphics[keepaspectratio=TRUE, width=.2\columnwidth]{nsf1}\\
+%{\tiny This material is based upon work supported by the National Science  \\ Foundation Graduate Research Fellowship Program under Grant No. (DGE-1445197).}
+%\item Tukey\\
+%\includegraphics[height=.35\paperheight]{TUKEY}
+  %          }
+\end{itemize}
+\end{frame}
+%\subsection{Sources}\begin{frame}[fragile]{Sources}
+%\begin{itemize}
+%\end{itemize}
+%\end{frame}

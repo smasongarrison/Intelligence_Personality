@@ -1,0 +1,5 @@
+\begin{frame}[fragile,allowframebreaks]{References}
+
+\bibliographystyle{apacite}
+\bibliography{Bibliography}
+\end{frame}

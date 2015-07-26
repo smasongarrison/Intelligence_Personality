@@ -1,0 +1,16 @@
+
+\section{Introduction}
+\begin{frame}
+\title[P\&I]{Personality and Intelligence}
+%\subtitle{\pgfmathsetmacro{\test}{rand}\test}
+\author{S. Mason Garrison \\
+	{\it Vanderbilt University, Peabody College}}\\
+
+\date{
+\RandomShape[DeepSkyBlue4]  
+	\\
+	\vspace{.5cm}
+	\today
+}
+\titlepage
+\end{frame}

@@ -1,0 +1,24 @@
+\begin{frame}[fragile]{Itemized Diagram}
+\begin{itemize}
+\item inferretque deos Latio, genus unde Latinum,
+Albanique patres, atque altae moenia Romae.\citep{A}.\end{itemize
+\begin{center} \begin{tikzpicture}[scale=.5]
+\tikzstyle{every node}=[scale=.5];
+\path (0:6cm) node[draw,shape=circle,minimum size=1.8cm] (A) {Musa};
+\path (0:0cm) node[draw,shape=circle] (I) {mihi causas};
+\path (0:3cm) node[label={+}] (P) {};
+\draw[-latex,ultra thick] (P.center) -- (I);
+\draw[-latex,ultra thick] (P.center) -- (A);
+\end{tikzpicture}\end{center}\begin{itemize}
+\item memora, quo numine laeso,quidve dolens, regina deum tot volvere casus.\end{itemize}
+\begin{center} \begin{tikzpicture}[scale=.5]
+\tikzstyle{every node}=[scale=.5];
+\path (0:6cm) node[draw,shape=circle,minimum size=1.8cm] (A) {insignem};
+\path (0:0cm) node[draw,shape=circle] (I) {pietate};
+\path (0:3cm) node[label={+}] (P) {};
+\draw[-latex,ultra thick] (I) -- (A);
+\end{tikzpicture}\end{center}
+\begin{itemize}\item virum, tot adire labores impulerit\citep{A}. 
+\item Tantaene animis caelestibus irae \citep{A}?
+\end{itemize}
+\end{frame}

@@ -1,0 +1,7 @@
+\beamer@endinputifotherversion {3.33pt}
+\beamer@sectionintoc {1}{Introduction}{1}{0}{1}
+\beamer@sectionintoc {2}{Background}{3}{0}{2}
+\beamer@subsectionintoc {2}{1}{Itemized}{3}{0}{2}
+\beamer@sectionintoc {3}{Methodology}{9}{0}{3}
+\beamer@sectionintoc {4}{Results}{9}{0}{4}
+\beamer@sectionintoc {5}{References}{9}{0}{5}

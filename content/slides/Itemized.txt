@@ -1,0 +1,12 @@
+
+\begin{frame}{Itemized}
+\begin{itemize}
+\item Arma virumque cano, Troiae qui primus ab oris Italiam, fato profugus, Laviniaque venit
+\item litora, multum ille et terris iactatus et alto
+\begin{itemize}
+\item vi superum saevae memorem Iunonis ob iram;
+\item multa quoque et bello passus,
+\end{itemize}
+\item dum conderet urbem,
+\end{itemize}
+\end{frame}
