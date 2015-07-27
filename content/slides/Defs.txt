@@ -1,12 +1,12 @@
 
-\begin{frame}{Definitions of Intelligence}
-\begin{itemize}
-\item Arma virumque cano, Troiae qui primus ab oris Italiam, fato profugus, Laviniaque venit
-\item litora, multum ille et terris iactatus et alto
-\begin{itemize}
-\item vi superum saevae memorem Iunonis ob iram;
-\item multa quoque et bello passus,
-\end{itemize}
-\item dum conderet urbem,
-\end{itemize}
+\begin{frame}[fragile,allowframebreaks]{Definitions of Intelligence}
+\begin{itemize}\item Consensus Definition \citep{Gottfredson1997}\\~\\
+``Intelligence is a very general mental capability that, among other things, involves the ability to reason, plan, solve problems, think abstractly, comprehend complex ideas, learn quickly and learn from experience. \textbf{It is not merely book learning, a narrow academic skill, or test-taking smarts. Rather it reflects a broader and deeper capability for comprehending our surroundings} -- `catching on,' `making sense' of things, or `figuring out' what to do.''
+\framebreak\\
+
+\item Boring's Definition \citep{boring1923intelligence}\\~\\
+``[I]ntelligence as a measurable capacity must at the start be defined as the capacity to do well in an intelligence test. Intelligence is what the tests test.''\\~\\
+
+\item Boring's Definition Misquoted (e.g., \citealp{legg2007collection})\\~\\
+``Intelligence is what is measured by intelligence tests.''\end{itemize}
 \end{frame}

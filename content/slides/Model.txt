@@ -1,0 +1,32 @@
+\begin{frame}[fragile,allowframebreaks]{Structure}
+
+\begin{itemize}
+
+\item Fluid -- Crystallized Distinction \citep{Cattell1941, Horn1965}\\~\\
+\begin{itemize}\item Fluid Intelligence\\
+is the ability to think systematically and solve problems in novel situations.\\~\\
+\item Crystallized Intelligence\\
+is the capacity to use reason, information, and experience. I like to think of it as ``knowledge,'' and that is the product of our accumulated experiences interacting with fluid intelligence.
+\end{itemize}\framebreak\\
+\item  Carroll Three-Stratum Theory (\citeyear{carroll1993human})\\~\\
+\begin{itemize}\item Hierarchical Structure\begin{enumerate}\item narrow (70),\\~\\ \item broad (10), and \\~\\\item general cognitive ability (1) \end{enumerate}\end{itemize}\end{itemize}
+\includegraphics<1>[width=1\textwidth]{Carroll_three_stratum}
+\framebreak\\
+\begin{itemize}\item Cattell-Horn-Carroll Theory\\
+is the integration of Cattell and Horn's theory within Carroll's structural model. The broad abilities are:\\
+\begin{enumerate}\item Crystallized Intelligence (Gc)\\~\\
+\item Fluid Intelligence (Gf)\\~\\
+\item Quantitative Reasoning (Gq)\\~\\
+\item Reading & Writing Ability (Grw)\\~\\
+\item Short-Term Memory (Gsm)\\~\\
+\item Long-Term Storage and Retrieval (Glr)\\~\\
+\item Visual Processing (Gv)\\~\\
+\item Auditory Processing (Ga)\\~\\
+\item Processing Speed (Gs)\\~\\
+\item Decision/Reaction Time/Speed (Gt)
+\end{enumerate}
+\end{itemize}
+\framebreak\\
+\includegraphics<1>[width=1\textwidth]{Carroll_three_stratum}
+
+\end{frame}

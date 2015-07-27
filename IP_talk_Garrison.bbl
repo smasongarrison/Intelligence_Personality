@@ -1,0 +1,150 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Boring%
+}{%
+Boring%
+}{%
+{\protect \APACyear {1923}}%
+}]{%
+boring1923intelligence}
+\APACinsertmetastar {%
+boring1923intelligence}%
+\begin{APACrefauthors}%
+Boring, E\BPBI G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1923}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Intelligence as the Tests Test It}} {{Intelligence as
+  the Tests Test It}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{New Republic}{}{}{35--37}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Carroll%
+}{%
+Carroll%
+}{%
+{\protect \APACyear {1993}}%
+}]{%
+carroll1993human}
+\APACinsertmetastar {%
+carroll1993human}%
+\begin{APACrefauthors}%
+Carroll, J\BPBI B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1993}.
+\newblock
+\APACrefbtitle {{Human cognitive abilities: A survey of factor-analytic
+  studies}} {{Human cognitive abilities: A survey of factor-analytic studies}}.
+\newblock
+\APACaddressPublisher{}{Cambridge University Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Cattell%
+}{%
+Cattell%
+}{%
+{\protect \APACyear {1941}}%
+}]{%
+Cattell1941}
+\APACinsertmetastar {%
+Cattell1941}%
+\begin{APACrefauthors}%
+Cattell, R\BPBI B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1941}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Some theoretical issues in adult intelligence testing}}
+  {{Some theoretical issues in adult intelligence testing}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Psychological bulletin}{38}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gottfredson%
+}{%
+Gottfredson%
+}{%
+{\protect \APACyear {1997}}%
+}]{%
+Gottfredson1997}
+\APACinsertmetastar {%
+Gottfredson1997}%
+\begin{APACrefauthors}%
+Gottfredson, L\BPBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1997}{}{}.
+\newblock
+\APACrefbtitle {{Mainstream science on intelligence: An editorial with 52
+  signatories, history, and bibliography}} {{Mainstream science on
+  intelligence: An editorial with 52 signatories, history, and bibliography}}\
+  (\BVOL~24)\ (\BNUM~1).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Horn%
+}{%
+Horn%
+}{%
+{\protect \APACyear {1965}}%
+}]{%
+Horn1965}
+\APACinsertmetastar {%
+Horn1965}%
+\begin{APACrefauthors}%
+Horn, J\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1965}.
+\unskip\
+\newblock
+\APACrefbtitle {{Fluid and crystallized intelligence: A factor analytic and
+  developmental study of the structure among primary mental abilities.}}
+  {{Fluid and crystallized intelligence: A factor analytic and developmental
+  study of the structure among primary mental abilities.}}\
+  \APACtypeAddressSchool {Doctoral Dissertation}{}{}.
+\unskip\
+\newblock
+\APACaddressSchool {}{University of Illinois, Champaign.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Legg%
+\ \BBA {} Hutter%
+}{%
+Legg%
+\ \BBA {} Hutter%
+}{%
+{\protect \APACyear {2007}}%
+}]{%
+legg2007collection}
+\APACinsertmetastar {%
+legg2007collection}%
+\begin{APACrefauthors}%
+Legg, S.%
+\BCBT {}\ \BBA {} Hutter, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{A collection of definitions of intelligence}} {{A
+  collection of definitions of intelligence}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Frontiers in Artificial Intelligence and
+  applications}{157}{}{17}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
