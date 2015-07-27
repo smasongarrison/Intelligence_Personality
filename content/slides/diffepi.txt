@@ -1,0 +1,69 @@
+
+\begin{frame}[fragile]{Applications to Health Research}
+\begin{itemize}
+\item Conscientiousness and intelligence consistently predict later health outcomes \citep{Jokela2013a,Gottfredson2004c}, across the life course \citep{roberts2007power}. \\~\\ 
+\item However, conscientiousness and intelligence are seldom tested simultaneously \citep{deary2010intelligence}, making it difficult to determine whether both traits determine health or one measure is a proxy for the other.\\
+ \item Intelligence and the conscientiousness facet of persistence are confounded under many assessment conditions \citep{Duckworth2011a,Segal2012}. \\~\\
+ \item Moreover, persistence is associated with later health \citep{torres2001role}, making the persistence-intelligence confound even more difficult to untangle.
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}[fragile]{Data}
+\begin{itemize} \item National Longitudinal Survey of Youth 1979
+\item In 1980, 12,686 adolescents between the ages of 14 and 22 were surveyed on a battery of measures, including the Armed Forces Vocational Aptitude Battery (ASVAB). \begin{itemize}\item Subscales of the ASVAB measure intelligence (AFQT) and
+\item persistence (Coding Speed). \end{itemize}
+\item Outcome Measures
+\begin{itemize} \item Health: $40+$ Health Module
+\item Focus on two items in particular
+\item Self-assessed health: ``In general, would you say your health is... 
+\item Excellent / Very Good / Good / Fair / Poor?''
+\end{itemize}
+\end{itemize}
+\end{frame}
+\begin{frame}
+\begin{center}\includegraphics[width=.9\textwidth]{iccor}\end{center}
+\end{frame}
+\begin{frame}[fragile,allowframebreaks]{Methods}
+To control for gene and environmental confounds, we (\citeyear{Garrison2014}) have adapted Kenny's (\citeyear{kenny2006dyadic}) reciprocal standard dyad model. The adaptation controls for gene and shared environmental influences within a simple regression framework, by taking the difference between the two siblings:
+      \begin{align*}
+&&Y_{diff} &= \beta_{0} + \beta_{1}\bar{Y} + \beta_{2}\bar{X} + \beta_{3}X_{diff}\\[2.5mm] 
+ \text{where,}&&Y_{diff} &= Y_{1i}-Y_{2i} \text{;  } \bar{Y} = \frac{Y_{1i}+Y_{2i}}{2} \\[2.5mm] 
+&&X_{diff} &= X_{1i}-X_{2i} \text{; } \bar{X} = \frac{X_{1i}+X_{2i}}{2} 
+      \end{align*}
+	  \framebreak\\
+	  \begin{itemize}
+\item The relative difference in outcomes ($Y_{diff}$) is predicted from \begin{itemize}\item the mean level of the outcome ($\bar{Y}$), 
+\item the mean level of the predictor ($\bar{X}$), and the 
+\item between-sibling predictor difference ($X_{diff}$). \end{itemize}\item The mean levels support causal inference through at least a partial control for genes and shared environment. \item Therefore, we simultaneously evaluate the individual difference ($X_{diff}$) and the joint contribution of genes and shared environment ($\bar{Y}$ \& $\bar{X}$).\end{itemize}
+\end{frame}
+\begin{frame}
+\begin{center}\includegraphics[width=.8\textwidth]{bwv}\end{center}
+\end{frame}
+\begin{frame}{Differences in Health}
+\begin{table}[htbp] %\centering 
+%  \caption{} %  \label{} 
+\begin{tabular}{@{\extracolsep{0pt}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} } 
+%\\[-1.8ex]\hline 
+%\hline \\[-1.8ex] 
+% & \multicolumn{6}{c}{\textit{Dependent variable:}} \\ 
+\cline{2-7} 
+\\[-1.8ex] & \multicolumn{6}{c}{\Large{Difference in Health}} \\ 
+\\[-1.8ex] & \multicolumn{1}{c}{(1)} & \multicolumn{1}{c}{(2)} & \multicolumn{1}{c}{(3)} & \multicolumn{1}{c}{(4)} & \multicolumn{1}{c}{(5)} & \multicolumn{1}{c}{(6)}\\ 
+\cline{1-7}  \\[-1.8ex] 
+\textbf{Individual}\\
+Persistence & -0.099^{*}$ $(0.024) & -0.059^{*}$ $(0.014) & -0.023$ $(0.015) &  &  & -0.044^{*}$ $(0.013) \\ 
+Intelligence & -0.095^{*}$ $(0.024) & -0.037^{*}$ $(0.014) & -0.039^{*}$ $(0.015) &  & -0.052^{*}$ $(0.013) &  \\ 
+  \textbf{Family}\\
+Persistence & -0.053^{*}$ $(0.017) & -0.043^{*}$ $(0.013) & -0.057^{*}$ $(0.020) &  &  & -0.041^{*}$ $(0.013) \\ 
+Intelligence & -0.027$ $(0.017) & 0.014$ $(0.013) & 0.022$ $(0.020) &  & -0.022$ $(0.014) &  \\ 
+Health & 0.155^{*}$ $(0.014) & 0.155^{*}$ $(0.014) & 0.155^{*}$ $(0.014) & 0.154^{*}$ $(0.014) & 0.157^{*}$ $(0.014) & 0.154^{*}$ $(0.013) \\ 
+\cline{1-7}  \\[-1.8ex] 
+Observations & \multicolumn{1}{c}{4,268} & \multicolumn{1}{c}{4,268} & \multicolumn{1}{c}{4,268} & \multicolumn{1}{c}{4,268} & \multicolumn{1}{c}{4,268} & \multicolumn{1}{c}{4,268} \\ 
+%R$^{2}$ & \multicolumn{1}{c}{0.043} & \multicolumn{1}{c}{0.043} & \multicolumn{1}{c}{0.043} & \multicolumn{1}{c}{0.042} & \multicolumn{1}{c}{0.041} & \multicolumn{1}{c}{0.042} \\ 
+Adjusted R$^{2}$ & \multicolumn{1}{c}{0.042} & \multicolumn{1}{c}{0.042} & \multicolumn{1}{c}{0.042} & \multicolumn{1}{c}{0.041} & \multicolumn{1}{c}{0.040} & \multicolumn{1}{c}{0.041} \\ 
+%Residual Std. Error & \multicolumn{1}{c}{0.841 (df = 4262)} & \multicolumn{1}{c}{0.841 (df = 4262)} & \multicolumn{1}{c}{0.841 (df = 4262)} & \multicolumn{1}{c}{0.841 (df = 4264)} & \multicolumn{1}{c}{0.842 (df = 4264)} & \multicolumn{1}{c}{0.842 (df = 4264)} \\ 
+F Statistic & \multicolumn{1}{c}{38.665$^{*}$ (df = 5; 4262)} & \multicolumn{1}{c}{38.665$^{*}$ (df = 5; 4262)} & \multicolumn{1}{c}{38.665$^{*}$ (df = 5; 4262)} & \multicolumn{1}{c}{62.551$^{*}$ (df = 3; 4264)} & \multicolumn{1}{c}{60.923$^{*}$ (df = 3; 4264)} & \multicolumn{1}{c}{61.693$^{*}$ (df = 3; 4264)}
+\end{tabular} 
+\end{table} 
+\end{frame}

@@ -1,0 +1,31 @@
+
+\begin{frame}[fragile,allowframebreaks]{Intelligence within Personality Theory}
+\begin{itemize}
+\item Eyesynck: PEN \+ I
+\begin{itemize}\item Intelligence and Personality are unrelated \citep{eysenck1994personality}
+\item Orthogonal to Personality
+\end{itemize}
+\item Big Five and the Lexical Hypothesis \citep{Goldberg1990}
+\begin{itemize}\item Is a fundamental piece of multiple factors
+\item Primarily, Openness to Experience \& Intellect \citep{saucier1992openness,trapnell1994openness,mccrae1994openness}\\
+intellectual, intelligent, 
+philosophical, erudite, clever
+\item But, pieces of conscientiousness are in there also \citep{mischel1989delay,Duckworth2011a}
+\item Some see it as a fundamental facet of intellect \citep{deyoung2007between}
+\end{itemize}\end{itemize}
+\end{frame}
+\subsection{Intelligence and Conscientiousness}
+\begin{frame}[fragile,allowframebreaks]{Intelligence and Conscientiousness}
+It's wonderfully weird!
+\begin{itemize} \item Orthogonal \citep{ackerman1997intelligence}
+\item Positively Correlated \citep{kuntsi2004co,lynam1993explaining}
+\item Negatively Correlated \citep{Moutafi2004,Duckworth2011a,Chamorro-Premuzic2005}
+\end{itemize}
+\end{frame}
+\begin{frame}[fragile,allowframebreaks]{Intelligence and Conscientiousness}
+Stakes of Assessment explains the distinction.\begin{itemize} 
+\item Orthogonal in meta-analyses (they aggregate)
+\item Positively Correlated under low stakes testing \citep{Goff1992}
+\item Negatively Correlated under high stakes testing \citep{Moutafi2004,Duckworth2011a}
+\end{itemize}
+\end{frame}

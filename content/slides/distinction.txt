@@ -1,0 +1,22 @@
+
+\begin{frame}[fragile,allowframebreaks]{Why the distinction?: Intelligence vs. Personality}
+Three dichotomies seem to create the view that intelligence and personality are considered categorically distinct \citep{deyoung2011intelligence}. 
+
+\begin{enumerate}\item Cognitive and noncognitive traits\begin{itemize}\item Intelligence considered to be cognitive, and \item personality considered to be noncognitive.
+\item However, this is a very arbitrary distinction.
+\item Cognition is an essential part of personality.
+\item At present, all this distinction states is that Noncognitive traits are not intelligence. \citep{deyoung2011intelligence}. \end{itemize}
+
+\item Methods of measurement:\begin{itemize}\item
+Intelligence is usually assessed using performance based ``ability'' tests, whereas \item personality is usually assessed by self report (or other report) ``questionnaires''. \end{itemize}
+
+\item Conceptual distinction in measurement\begin{itemize}\item Intelligence is often considered to reflect ``maximal performance'' (i.e., performance when individuals are trying their hardest), whereas \item personality is considered to reflect ``typical behavior''\citep{Cronbach1949}. \end{itemize}
+\end{enumerate}\begin{itemize}
+\item These final two distinctions are a function of the method of assessment.\begin{itemize}\item Noncognitive traits impact cognitive performance all the time. \begin{itemize}\item Test Anxiety, Motivation, etc.\end{itemize}
+\item Duckworth and colleagues (\citeyear{Duckworth2011a}) illustrated that incentivizing performance on IQ tests lead to a .66 SD score increase, or approximately 10 IQ points.
+
+\end{itemize}\end{itemize}
+
+
+\end{frame}
+

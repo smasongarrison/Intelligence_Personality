@@ -1,6 +1,33 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
+Ackerman%
+\ \BBA {} Heggestad%
+}{%
+Ackerman%
+\ \BBA {} Heggestad%
+}{%
+{\protect \APACyear {1997}}%
+}]{%
+ackerman1997intelligence}
+\APACinsertmetastar {%
+ackerman1997intelligence}%
+\begin{APACrefauthors}%
+Ackerman, P\BPBI L.%
+\BCBT {}\ \BBA {} Heggestad, E\BPBI D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1997}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Intelligence, personality, and interests: evidence for
+  overlapping traits.}} {{Intelligence, personality, and interests: evidence
+  for overlapping traits.}}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Psychological bulletin}{121}{2}{219}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Boring%
 }{%
 Boring%
@@ -70,6 +97,286 @@ Cattell, R\BPBI B.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Chamorro-Premuzic%
+\ \BBA {} Furnham%
+}{%
+Chamorro-Premuzic%
+\ \BBA {} Furnham%
+}{%
+{\protect \APACyear {2005}}%
+}]{%
+Chamorro-Premuzic2005}
+\APACinsertmetastar {%
+Chamorro-Premuzic2005}%
+\begin{APACrefauthors}%
+Chamorro-Premuzic, T.%
+\BCBT {}\ \BBA {} Furnham, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2005}.
+\newblock
+\APACrefbtitle {{Personality and intellectual competence.}} {{Personality and
+  intellectual competence.}}
+\newblock
+\APACaddressPublisher{Mahwah, New Jersey}{Lawrence Erlbaum Associates.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Cronbach%
+}{%
+Cronbach%
+}{%
+{\protect \APACyear {1949}}%
+}]{%
+Cronbach1949}
+\APACinsertmetastar {%
+Cronbach1949}%
+\begin{APACrefauthors}%
+Cronbach, L\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1949}.
+\newblock
+\APACrefbtitle {{Essentials of psychological testing.}} {{Essentials of
+  psychological testing.}}
+\newblock
+\APACaddressPublisher{Oxford, England}{Harper}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Deary%
+, Weiss%
+\BCBL {}\ \BBA {} Batty%
+}{%
+Deary%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2010}}%
+}]{%
+deary2010intelligence}
+\APACinsertmetastar {%
+deary2010intelligence}%
+\begin{APACrefauthors}%
+Deary, I\BPBI J.%
+, Weiss, A.%
+\BCBL {}\ \BBA {} Batty, G\BPBI D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Intelligence and Personality as Predictors of Illness
+  and Death: How Researchers in Differential Psychology and Chronic Disease
+  Epidemiology Are Collaborating to Understand and Address Health
+  Inequalities}} {{Intelligence and Personality as Predictors of Illness and
+  Death: How Researchers in Differential Psychology and Chronic Disease
+  Epidemiology Are Collaborating to Understand and Address Health
+  Inequalities}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Psychological Science in the Public
+  Interest}{11}{2}{53--79}.
+\newblock
+\begin{APACrefDOI} \doi{10.1177/1529100610387081} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+DeYoung%
+}{%
+DeYoung%
+}{%
+{\protect \APACyear {2011}}%
+}]{%
+deyoung2011intelligence}
+\APACinsertmetastar {%
+deyoung2011intelligence}%
+\begin{APACrefauthors}%
+DeYoung, C\BPBI G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Intelligence and personality}} {{Intelligence and
+  personality}}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {The Cambridge handbook of intelligence} {The cambridge
+  handbook of intelligence}\ (\BPGS\ 711--737).
+\newblock
+\APACaddressPublisher{New York}{Cambridge University Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+DeYoung%
+, Quilty%
+\BCBL {}\ \BBA {} Peterson%
+}{%
+DeYoung%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2007}}%
+}]{%
+deyoung2007between}
+\APACinsertmetastar {%
+deyoung2007between}%
+\begin{APACrefauthors}%
+DeYoung, C\BPBI G.%
+, Quilty, L\BPBI C.%
+\BCBL {}\ \BBA {} Peterson, J\BPBI B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Between facets and domains: 10 aspects of the Big
+  Five.}} {{Between facets and domains: 10 aspects of the Big Five.}}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of personality and social
+  psychology}{93}{5}{880}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Duckworth%
+, Quinn%
+, Lynam%
+, Loeber%
+\BCBL {}\ \BBA {} Stouthamer-Loeber%
+}{%
+Duckworth%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2011}}%
+}]{%
+Duckworth2011a}
+\APACinsertmetastar {%
+Duckworth2011a}%
+\begin{APACrefauthors}%
+Duckworth, A\BPBI L.%
+, Quinn, P\BPBI D.%
+, Lynam, D\BPBI R.%
+, Loeber, R.%
+\BCBL {}\ \BBA {} Stouthamer-Loeber, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{{\APACmonth{05}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Role of test motivation in intelligence testing.}}
+  {{Role of test motivation in intelligence testing.}}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Proceedings of the National Academy of Sciences of the
+  United States of America}{108}{19}{7716--20}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Eysenck%
+}{%
+Eysenck%
+}{%
+{\protect \APACyear {1994}}%
+}]{%
+eysenck1994personality}
+\APACinsertmetastar {%
+eysenck1994personality}%
+\begin{APACrefauthors}%
+Eysenck, H\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1994}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Personality and intelligence: Psychometric and
+  experimental approaches}} {{Personality and intelligence: Psychometric and
+  experimental approaches}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Personality and intelligence}{}{}{3--31}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Garrison%
+, Hadd%
+\BCBL {}\ \BBA {} Rodgers%
+}{%
+Garrison%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
+}]{%
+Garrison2014}
+\APACinsertmetastar {%
+Garrison2014}%
+\begin{APACrefauthors}%
+Garrison, S\BPBI M.%
+, Hadd, A\BPBI R.%
+\BCBL {}\ \BBA {} Rodgers, J\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2014}.
+\unskip\
+\newblock
+\APACrefbtitle {{Impact of adolescent conscientiousness and intelligence on
+  health at middle age: A sibling comparison approach}} {{Impact of adolescent
+  conscientiousness and intelligence on health at middle age: A sibling
+  comparison approach}}\ \APACtypeAddressSchool {\BUPhD}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Goff%
+\ \BBA {} Ackerman%
+}{%
+Goff%
+\ \BBA {} Ackerman%
+}{%
+{\protect \APACyear {1992}}%
+}]{%
+Goff1992}
+\APACinsertmetastar {%
+Goff1992}%
+\begin{APACrefauthors}%
+Goff, M.%
+\BCBT {}\ \BBA {} Ackerman, P\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1992}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Personality-intelligence relations: Assessment of
+  typical intellectual engagement.}} {{Personality-intelligence relations:
+  Assessment of typical intellectual engagement.}}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Educational Psychology}{84}{4}{537--552}.
+\newblock
+\begin{APACrefURL}
+  \url{http://doi.apa.org/getdoi.cfm?doi=10.1037/0022-0663.84.4.537}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1037//0022-0663.84.4.537} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Goldberg%
+}{%
+Goldberg%
+}{%
+{\protect \APACyear {1990}}%
+}]{%
+Goldberg1990}
+\APACinsertmetastar {%
+Goldberg1990}%
+\begin{APACrefauthors}%
+Goldberg, L\BPBI R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1990}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{An alternative" description of personality": the
+  big-five factor structure.}} {{An alternative" description of personality":
+  the big-five factor structure.}}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of personality and social
+  psychology}{59}{6}{1216--29}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Gottfredson%
 }{%
 Gottfredson%
@@ -90,6 +397,33 @@ Gottfredson, L\BPBI S.%
   signatories, history, and bibliography}} {{Mainstream science on
   intelligence: An editorial with 52 signatories, history, and bibliography}}\
   (\BVOL~24)\ (\BNUM~1).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gottfredson%
+\ \BBA {} Deary%
+}{%
+Gottfredson%
+\ \BBA {} Deary%
+}{%
+{\protect \APACyear {2004}}%
+}]{%
+Gottfredson2004c}
+\APACinsertmetastar {%
+Gottfredson2004c}%
+\begin{APACrefauthors}%
+Gottfredson, L\BPBI S.%
+\BCBT {}\ \BBA {} Deary, I\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2004}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Intelligence Predicts Health and Longevity, but Why?}}
+  {{Intelligence Predicts Health and Longevity, but Why?}}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Current Directions in Psychological
+  Science}{13}{1}{1--4}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -121,6 +455,95 @@ Horn, J\BPBI L.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Jokela%
+\ \protect \BOthers {.}}{%
+Jokela%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+Jokela2013a}
+\APACinsertmetastar {%
+Jokela2013a}%
+\begin{APACrefauthors}%
+Jokela, M.%
+, Batty, G\BPBI D.%
+, Nyberg, S\BPBI T.%
+, Virtanen, M.%
+, Nabi, H.%
+, Singh-Manoux, A.%
+\BCBL {}\ \BBA {} Kivim\"{a}ki, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Personality and all-cause mortality:
+  Individual-participant meta-analysis of 3,947 deaths in 76,150 adults}}
+  {{Personality and all-cause mortality: Individual-participant meta-analysis
+  of 3,947 deaths in 76,150 adults}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{American Journal of Epidemiology}{178}{5}{667--675}.
+\newblock
+\begin{APACrefDOI} \doi{10.1093/aje/kwt170} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kenny%
+, Kashy%
+\BCBL {}\ \BBA {} Cook%
+}{%
+Kenny%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2006}}%
+}]{%
+kenny2006dyadic}
+\APACinsertmetastar {%
+kenny2006dyadic}%
+\begin{APACrefauthors}%
+Kenny, D\BPBI A.%
+, Kashy, D\BPBI A.%
+\BCBL {}\ \BBA {} Cook, W\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2006}.
+\newblock
+\APACrefbtitle {{Dyadic data analysis}} {{Dyadic data analysis}}.
+\newblock
+\APACaddressPublisher{}{Guilford Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kuntsi%
+\ \protect \BOthers {.}}{%
+Kuntsi%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2004}}%
+}]{%
+kuntsi2004co}
+\APACinsertmetastar {%
+kuntsi2004co}%
+\begin{APACrefauthors}%
+Kuntsi, J.%
+, Eley, T\BPBI C.%
+, Taylor, A.%
+, Hughes, C.%
+, Asherson, P.%
+, Caspi, A.%
+\BCBL {}\ \BBA {} Moffitt, T\BPBI E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2004}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Co-occurrence of ADHD and low IQ has genetic origins}}
+  {{Co-occurrence of ADHD and low IQ has genetic origins}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{American Journal of Medical Genetics Part B:
+  Neuropsychiatric Genetics}{124}{1}{41--47}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Legg%
 \ \BBA {} Hutter%
 }{%
@@ -145,6 +568,249 @@ Legg, S.%
 \newblock
 \APACjournalVolNumPages{Frontiers in Artificial Intelligence and
   applications}{157}{}{17}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lynam%
+, Moffitt%
+\BCBL {}\ \BBA {} Stouthamer-Loeber%
+}{%
+Lynam%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1993}}%
+}]{%
+lynam1993explaining}
+\APACinsertmetastar {%
+lynam1993explaining}%
+\begin{APACrefauthors}%
+Lynam, D.%
+, Moffitt, T.%
+\BCBL {}\ \BBA {} Stouthamer-Loeber, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1993}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Explaining the relation between IQ and delinquency:
+  Class, race, test motivation, school failure, or self-control?}} {{Explaining
+  the relation between IQ and delinquency: Class, race, test motivation, school
+  failure, or self-control?}}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of abnormal psychology}{102}{2}{187}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+McCrae%
+}{%
+McCrae%
+}{%
+{\protect \APACyear {1994}}%
+}]{%
+mccrae1994openness}
+\APACinsertmetastar {%
+mccrae1994openness}%
+\begin{APACrefauthors}%
+McCrae, R\BPBI R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1994}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Openness to experience: Expanding the boundaries of
+  Factor V}} {{Openness to experience: Expanding the boundaries of Factor
+  V}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{European Journal of Personality}{8}{4}{251--272}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mischel%
+, Shoda%
+\BCBL {}\ \BBA {} Rodriguez%
+}{%
+Mischel%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1989}}%
+}]{%
+mischel1989delay}
+\APACinsertmetastar {%
+mischel1989delay}%
+\begin{APACrefauthors}%
+Mischel, W.%
+, Shoda, Y.%
+\BCBL {}\ \BBA {} Rodriguez, M\BPBI I.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1989}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Delay of gratification in children}} {{Delay of
+  gratification in children}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Science}{244}{4907}{933--938}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Moutafi%
+, Furnham%
+\BCBL {}\ \BBA {} Paltiel%
+}{%
+Moutafi%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2004}}%
+}]{%
+Moutafi2004}
+\APACinsertmetastar {%
+Moutafi2004}%
+\begin{APACrefauthors}%
+Moutafi, J.%
+, Furnham, A.%
+\BCBL {}\ \BBA {} Paltiel, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2004}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Why is Conscientiousness negatively correlated with
+  intelligence ?}} {{Why is Conscientiousness negatively correlated with
+  intelligence ?}}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Personality and Individual
+  Differences}{37}{}{1013--1022}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Roberts%
+, Kuncel%
+, Shiner%
+, Caspi%
+\BCBL {}\ \BBA {} Goldberg%
+}{%
+Roberts%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2007}}%
+}]{%
+roberts2007power}
+\APACinsertmetastar {%
+roberts2007power}%
+\begin{APACrefauthors}%
+Roberts, B\BPBI W.%
+, Kuncel, N\BPBI R.%
+, Shiner, R.%
+, Caspi, A.%
+\BCBL {}\ \BBA {} Goldberg, L\BPBI R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{The power of personality: The comparative validity of
+  personality traits, socioeconomic status, and cognitive ability for
+  predicting important life outcomes}} {{The power of personality: The
+  comparative validity of personality traits, socioeconomic status, and
+  cognitive ability for predicting important life outcomes}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Perspectives on Psychological Science}{2}{4}{313--345}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Saucier%
+}{%
+Saucier%
+}{%
+{\protect \APACyear {1992}}%
+}]{%
+saucier1992openness}
+\APACinsertmetastar {%
+saucier1992openness}%
+\begin{APACrefauthors}%
+Saucier, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1992}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Openness versus intellect: Much ado about nothing?}}
+  {{Openness versus intellect: Much ado about nothing?}}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{European Journal of Personality}{6}{5}{381--386}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Segal%
+}{%
+Segal%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+Segal2012}
+\APACinsertmetastar {%
+Segal2012}%
+\begin{APACrefauthors}%
+Segal, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{{\APACmonth{08}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Working When No One Is Watching: Motivation, Test
+  Scores, and Economic Success}} {{Working When No One Is Watching: Motivation,
+  Test Scores, and Economic Success}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Management Science}{58}{8}{1438--1457}.
+\newblock
+\begin{APACrefDOI} \doi{10.1287/mnsc.1110.1509} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Torres%
+\ \BBA {} Solberg%
+}{%
+Torres%
+\ \BBA {} Solberg%
+}{%
+{\protect \APACyear {2001}}%
+}]{%
+torres2001role}
+\APACinsertmetastar {%
+torres2001role}%
+\begin{APACrefauthors}%
+Torres, J\BPBI B.%
+\BCBT {}\ \BBA {} Solberg, V\BPBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2001}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Role of self-efficacy, stress, social integration, and
+  family support in Latino college student persistence and health}} {{Role of
+  self-efficacy, stress, social integration, and family support in Latino
+  college student persistence and health}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of vocational behavior}{59}{1}{53--63}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Trapnell%
+}{%
+Trapnell%
+}{%
+{\protect \APACyear {1994}}%
+}]{%
+trapnell1994openness}
+\APACinsertmetastar {%
+trapnell1994openness}%
+\begin{APACrefauthors}%
+Trapnell, P\BPBI D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1994}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Openness versus intellect: A lexical left turn}}
+  {{Openness versus intellect: A lexical left turn}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{European Journal of Personality}{8}{4}{273--290}.
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}

@@ -1,0 +1,7 @@
+\begin{frame}[fragile]{Discussion Points}
+\begin{itemize}
+\item Why do you think intelligence and personality are treated as distinct categories?\\~\\
+\item How could we assess personality traits as abilities? \\~\\
+\item What about intelligence as we do personality?\\~\\
+\item Why don't we include more intelligence measures in personality research? \end{itemize}
+\end{frame}

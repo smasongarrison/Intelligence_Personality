@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.12.26)  27 JUL 2015 00:06
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.12.26)  27 JUL 2015 14:11
 entering extended mode
 **IP_talk_Garrison.tex
 
@@ -921,22 +921,216 @@ LaTeX Info: Redefining \citeyear on input line 735.
 \WF@everypar=\toks45
 Package: wrapfig 2003/01/31  v 3.6
 )
-(C:\Users\smaso_000\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\base\themes\out
-er\beamerouterthememiniframes.sty
-Package: beamerouterthememiniframes 2010/06/17  (rcs-revision d02a7cf4d8ae)
-)
-(C:\Users\smaso_000\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\base\themes\fon
-t\beamerfontthemeserif.sty
-Package: beamerfontthemeserif 2010/06/17  (rcs-revision d02a7cf4d8ae)
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\palatino.sty"
-Package: palatino 2005/04/12 PSNFSS-v9.2a (SPQR) 
-)
-(C:\Users\smaso_000\AppData\Roaming\MiKTeX\2.9\tex\latex\upquote\upquote.sty
-Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
-tim
+(C:\Users\smaso_000\AppData\Roaming\MiKTeX\2.9\tex\latex\changepage\changepage.
+sty
+Package: changepage 2009/10/20 v1.0c check page and change page layout
+\c@cp@cntr=\count166
+\cp@tempcnt=\count167
+) (C:\Users\smaso_000\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\ragged2e.sty
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\textcomp.sty"
+(C:\Users\smaso_000\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\CenteringLeftskip=\skip65
+\RaggedLeftLeftskip=\skip66
+\RaggedRightLeftskip=\skip67
+\CenteringRightskip=\skip68
+\RaggedLeftRightskip=\skip69
+\RaggedRightRightskip=\skip70
+\CenteringParfillskip=\skip71
+\RaggedLeftParfillskip=\skip72
+\RaggedRightParfillskip=\skip73
+\JustifyingParfillskip=\skip74
+\CenteringParindent=\skip75
+\RaggedLeftParindent=\skip76
+\RaggedRightParindent=\skip77
+\JustifyingParindent=\skip78
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\times.sty"
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\latexsym.sty"
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\exscale.sty"
+Package: exscale 2007/10/29 v2.1h Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 52.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 52.
+\big@size=\dimen213
+)
+(C:\Users\smaso_000\AppData\Roaming\MiKTeX\2.9\tex\latex\booktabs\booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen214
+\lightrulewidth=\dimen215
+\cmidrulewidth=\dimen216
+\belowrulesep=\dimen217
+\belowbottomsep=\dimen218
+\aboverulesep=\dimen219
+\abovetopsep=\dimen220
+\cmidrulesep=\dimen221
+\cmidrulekern=\dimen222
+\defaultaddspace=\dimen223
+\@cmidla=\count168
+\@cmidlb=\count169
+\@aboverulesep=\dimen224
+\@belowrulesep=\dimen225
+\@thisruleclass=\count170
+\@lastruleclass=\count171
+\@thisrulewidth=\dimen226
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen227
+\extrarowheight=\dimen228
+\NC@list=\toks46
+\extratabsurround=\skip79
+\backup@length=\skip80
+)
+(C:\Users\smaso_000\AppData\Roaming\MiKTeX\2.9\tex\latex\rotating\rotating.sty
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count172
+\rotFPtop=\skip81
+\rotFPbot=\skip82
+\rot@float@box=\box60
+\rot@mess@toks=\toks47
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2008/07/08 v3.8m The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+(C:\Users\smaso_000\AppData\Roaming\MiKTeX\2.9\tex\latex\babel-english\english.
+ldf
+Language: english 2012/08/20 v3.3p English support from the babel system
+ ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+LaTeX Info: Redefining \textlatin on input line 82.
+\babel@savecnt=\count173
+\U@D=\dimen229
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks48
+\inpenc@posthook=\toks49
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\latin1.def"
+File: latin1.def 2008/03/30 v1.1d Input encoding file
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\xspace.sty"
+Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty"
+Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
+\c@tracingmulticols=\count174
+\mult@box=\box61
+\multicol@leftmargin=\dimen230
+\c@unbalance=\count175
+\c@collectmore=\count176
+\doublecol@number=\count177
+\multicoltolerance=\count178
+\multicolpretolerance=\count179
+\full@width=\dimen231
+\page@free=\dimen232
+\premulticols=\dimen233
+
+! No room for a new \dimen .
+\ch@ck ...\else \errmessage {No room for a new #3}
+                                                  \fi 
+l.349 \newdimen\postmulticols
+                             
+This error message was generated by an \errmessage
+command, so I can't give any explicit help.
+Pretend that you're Hercule Poirot: Examine all clues,
+and deduce the truth by order and method.
+
+\postmulticols=\dimen234
+\multicolsep=\skip83
+\multicolbaselineskip=\skip84
+\partial@page=\box62
+\last@line=\box63
+\mult@rightbox=\box64
+\mult@grightbox=\box65
+\mult@gfirstbox=\box66
+\mult@firstbox=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\c@columnbadness=\count180
+\c@finalcolumnbadness=\count181
+! No room for a new \dimen .
+\ch@ck ...\else \errmessage {No room for a new #3}
+                                                  \fi 
+l.806 \newdimen\last@try
+                        
+(That was another \errmessage.)
+
+\last@try=\dimen235
+! No room for a new \dimen .
+\ch@ck ...\else \errmessage {No room for a new #3}
+                                                  \fi 
+l.808 \newdimen\multicolovershoot
+                                 
+(That was another \errmessage.)
+
+\multicolovershoot=\dimen236
+! No room for a new \dimen .
+\ch@ck ...\else \errmessage {No room for a new #3}
+                                                  \fi 
+l.809 \newdimen\multicolundershoot
+                                  
+(That was another \errmessage.)
+
+\multicolundershoot=\dimen237
+\mult@nat@firstbox=\box85
+\colbreak@box=\box86
+\multicol@sort@counter=\count182
+) ("C:\Program Files\R\R-3.2.1\share\texmf\tex\latex\Sweave.sty"
+Package: Sweave 
+
+(C:\Users\smaso_000\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyvrb\fancyvrb.sty
+Package: fancyvrb 2008/02/07
+
+Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix 
+<2008/02/07> (tvz)
+\FV@CodeLineNo=\count183
+\FV@InFile=\read2
+\FV@TabBox=\box87
+\c@FancyVerbLine=\count184
+\FV@StepNumber=\count185
+\FV@OutFile=\write5
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\textcomp.sty"
 Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
 Package textcomp Info: Sub-encoding information:
 (textcomp)               5 = only ISO-Adobe without \textcurrency
@@ -1016,35 +1210,71 @@ Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 337.
 Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
 Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 ))
+("C:\Program Files\MiKTeX 2.9\tex\latex\ae\ae.sty"
+Package: ae 2001/02/12 1.3 Almost European Computer Modern
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+)
+LaTeX Font Info:    Try loading font information for T1+aer on input line 100.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\ae\t1aer.fd"
+File: t1aer.fd 1997/11/16 Font definitions for T1/aer.
+))))
+(C:\Users\smaso_000\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\base\themes\out
+er\beamerouterthememiniframes.sty
+Package: beamerouterthememiniframes 2010/06/17  (rcs-revision d02a7cf4d8ae)
+)
+(C:\Users\smaso_000\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\base\themes\fon
+t\beamerfontthemeserif.sty
+Package: beamerfontthemeserif 2010/06/17  (rcs-revision d02a7cf4d8ae)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\palatino.sty"
+Package: palatino 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(C:\Users\smaso_000\AppData\Roaming\MiKTeX\2.9\tex\latex\upquote\upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+)
 (C:\Dropbox\Work\Class\UBC\Personality\Intelligence_Personality\IP_talk_Garriso
 n.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 105.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 105.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 122.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 122.
 
  ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Font Info:    Try loading font information for OT1+ppl on input line 105.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Try loading font information for T1+ppl on input line 122.
 
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ppl.fd"
-File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1ppl.fd"
+File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 )
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1082,20 +1312,34 @@ File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 
 (C:\Users\smaso_000\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count166
-\scratchdimen=\dimen213
-\scratchbox=\box60
-\nofMPsegments=\count167
-\nofMParguments=\count168
-\everyMPshowfont=\toks46
-\MPscratchCnt=\count169
-\MPscratchDim=\dimen214
-\MPnumerator=\count170
-\makeMPintoPDFobject=\count171
-\everyMPtoPDFconversion=\toks47
+\scratchcounter=\count186
+! No room for a new \dimen .
+\ch@ck ...\else \errmessage {No room for a new #3}
+                                                  \fi 
+l.137 ... \csname newdimen\endcsname \scratchdimen
+                                                  
+(That was another \errmessage.)
+
+\scratchdimen=\dimen238
+\scratchbox=\box88
+\nofMPsegments=\count187
+\nofMParguments=\count188
+\everyMPshowfont=\toks50
+\MPscratchCnt=\count189
+! No room for a new \dimen .
+\ch@ck ...\else \errmessage {No room for a new #3}
+                                                  \fi 
+l.1253 \newdimen\MPscratchDim
+                              % will be assigned global
+(That was another \errmessage.)
+
+\MPscratchDim=\dimen239
+\MPnumerator=\count190
+\makeMPintoPDFobject=\count191
+\everyMPtoPDFconversion=\toks51
 ) ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box61
-Package hyperref Info: Link coloring OFF on input line 105.
+\AtBeginShipoutBox=\box89
+Package hyperref Info: Link coloring OFF on input line 122.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1103,55 +1347,55 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count172
+\c@section@level=\count192
 )
-LaTeX Info: Redefining \ref on input line 105.
-LaTeX Info: Redefining \pageref on input line 105.
-LaTeX Info: Redefining \nameref on input line 105.
+LaTeX Info: Redefining \ref on input line 122.
+LaTeX Info: Redefining \pageref on input line 122.
+LaTeX Info: Redefining \nameref on input line 122.
 
 (C:\Dropbox\Work\Class\UBC\Personality\Intelligence_Personality\IP_talk_Garriso
 n.out)
 (C:\Dropbox\Work\Class\UBC\Personality\Intelligence_Personality\IP_talk_Garriso
 n.out)
-\@outlinefile=\write5
-\symnumbers=\mathgroup6
-\sympureletters=\mathgroup7
+\@outlinefile=\write6
+\symnumbers=\mathgroup7
+\sympureletters=\mathgroup8
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/ppl/m/n on input line 105.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 105.
+(Font)                  OT1/cmr/m/n --> T1/ppl/m/n on input line 122.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 122.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/ppl/bx/n on input line 105.
+(Font)                  OT1/cmr/bx/n --> T1/ppl/bx/n on input line 122.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/ppl/bx/n on input line 105.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 105.
+(Font)                  OT1/cmr/bx/n --> T1/ppl/bx/n on input line 122.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 122.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/phv/m/n on input line 105.
+(Font)                  OT1/cmss/m/n --> T1/phv/m/n on input line 122.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/phv/m/n on input line 105.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 105.
+(Font)                  OT1/cmss/bx/n --> T1/phv/m/n on input line 122.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 122.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/ppl/m/it on input line 105.
+(Font)                  OT1/cmr/m/it --> T1/ppl/m/it on input line 122.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/ppl/m/it on input line 105.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 105.
+(Font)                  OT1/cmr/bx/it --> T1/ppl/m/it on input line 122.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 122.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/pcr/m/n on input line 105.
+(Font)                  OT1/cmtt/m/n --> T1/pcr/m/n on input line 122.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/pcr/m/n on input line 105.
+(Font)                  OT1/cmtt/m/n --> T1/pcr/m/n on input line 122.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/ppl/m/n --> OT1/ppl/bx/n on input line 105.
+(Font)                  T1/ppl/m/n --> T1/ppl/bx/n on input line 122.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/ppl/m/it --> OT1/ppl/bx/it on input line 105.
+(Font)                  T1/ppl/m/it --> T1/ppl/bx/it on input line 122.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/ppl/bx/n on input line 105.
+(Font)                  OT1/cmr/bx/n --> T1/ppl/bx/n on input line 122.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/ppl/bx/n --> OT1/ppl/bx/n on input line 105.
+(Font)                  T1/ppl/bx/n --> T1/ppl/bx/n on input line 122.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/phv/m/n --> OT1/phv/bx/n on input line 105.
+(Font)                  T1/phv/m/n --> T1/phv/bx/n on input line 122.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/ppl/m/it --> OT1/ppl/bx/it on input line 105.
+(Font)                  T1/ppl/m/it --> T1/ppl/bx/it on input line 122.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/pcr/m/n --> OT1/pcr/bx/n on input line 105.
+(Font)                  T1/pcr/m/n --> T1/pcr/bx/n on input line 122.
 
 (C:\Users\smaso_000\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\base\translator
 \dicts\translator-basic-dictionary\translator-basic-dictionary-English.dict
@@ -1179,13 +1423,15 @@ Dictionary: translator-numbers-dictionary, Language: English
 \dicts\translator-theorem-dictionary\translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 105.
-\c@maskedRefs=\count173
+LaTeX Info: Redefining \includegraphics on input line 122.
+\c@maskedRefs=\count193
  (C:\Users\smaso_000\AppData\Roaming\MiKTeX\2.9\tex\latex\apacite\english.apc
 File: english.apc 2013/07/21 v6.03 apacite language file
 LaTeX Info: Redefining \BPBI on input line 129.
 LaTeX Info: Redefining \BHBI on input line 130.
-)
+) ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 122.
+
 (C:\Dropbox\Work\Class\UBC\Personality\Intelligence_Personality\IP_talk_Garriso
 n.nav)
 (C:\Dropbox\Work\Class\UBC\Personality\Intelligence_Personality\content/slides/
@@ -1207,10 +1453,6 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-
-Overfull \vbox (30.2674pt too high) detected at line 16
- []
-
 [1{C:/Users/smaso_000/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 ])
@@ -1224,6 +1466,10 @@ n.toc) [2
 Defs.txt
 (C:\Dropbox\Work\Class\UBC\Personality\Intelligence_Personality\IP_talk_Garriso
 n.vrb
+LaTeX Font Info:    External font `cmex7' loaded for size
+(Font)              <6> on input line 2.
+LaTeX Font Info:    External font `cmex7' loaded for size
+(Font)              <5> on input line 2.
 LaTeX Font Info:    Try loading font information for U+msa on input line 2.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -1233,8 +1479,31 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 2.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 3.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 2.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ulasy.fd"
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 2.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 2.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 2.
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <8> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 2.
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <6> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 2.
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <5> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 2.
+LaTeX Font Info:    Font shape `T1/ppl/bx/it' in size <8> not available
+(Font)              Font shape `T1/ppl/b/it' tried instead on input line 2.
+LaTeX Font Info:    Font shape `T1/ppl/bx/it' in size <6> not available
+(Font)              Font shape `T1/ppl/b/it' tried instead on input line 2.
+LaTeX Font Info:    Font shape `T1/ppl/bx/it' in size <5> not available
+(Font)              Font shape `T1/ppl/b/it' tried instead on input line 2.
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 3.
 ) [3
 
 ] [4
@@ -1258,7 +1527,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-<graphics/Carroll_three_stratum.png, id=216, 759.83875pt x 347.2975pt>
+<graphics/Carroll_three_stratum.png, id=307, 759.83875pt x 347.2975pt>
 File: graphics/Carroll_three_stratum.png Graphic file (type png)
 
 <use graphics/Carroll_three_stratum.png>
@@ -1315,47 +1584,792 @@ ll_three_stratum.png>]
 
 ])
 (C:\Dropbox\Work\Class\UBC\Personality\Intelligence_Personality\content/slides/
-References.txt
+distinction.txt
 (C:\Dropbox\Work\Class\UBC\Personality\Intelligence_Personality\IP_talk_Garriso
-n.vrb)
-(C:\Dropbox\Work\Class\UBC\Personality\Intelligence_Personality\IP_talk_Garriso
-n.bbl) [11
+n.vrb) [11
 
 ] [12
 
 
 ])
-\tf@nav=\write6
-\tf@toc=\write7
-\tf@snm=\write8
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 161.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 161.
+(C:\Dropbox\Work\Class\UBC\Personality\Intelligence_Personality\content/slides/
+personality.txt
+(C:\Dropbox\Work\Class\UBC\Personality\Intelligence_Personality\IP_talk_Garriso
+n.vrb
+! Undefined control sequence.
+l.3 \item Eyesynck: PEN \+
+                           I
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) [13
+
+]
+(C:\Dropbox\Work\Class\UBC\Personality\Intelligence_Personality\IP_talk_Garriso
+n.vrb) [14
+
+]
+(C:\Dropbox\Work\Class\UBC\Personality\Intelligence_Personality\IP_talk_Garriso
+n.vrb) [15
+
+])
+(C:\Dropbox\Work\Class\UBC\Personality\Intelligence_Personality\content/slides/
+diffepi.txt
+(C:\Dropbox\Work\Class\UBC\Personality\Intelligence_Personality\IP_talk_Garriso
+n.vrb) [16
+
+]
+(C:\Dropbox\Work\Class\UBC\Personality\Intelligence_Personality\IP_talk_Garriso
+n.vrb
+LaTeX Font Info:    External font `cmex7' loaded for size
+(Font)              <7> on input line 6.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <7> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 6.
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 6.
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <7> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 6.
+LaTeX Font Info:    Font shape `T1/ppl/bx/it' in size <10> not available
+(Font)              Font shape `T1/ppl/b/it' tried instead on input line 6.
+LaTeX Font Info:    Font shape `T1/ppl/bx/it' in size <7> not available
+(Font)              Font shape `T1/ppl/b/it' tried instead on input line 6.
+) [17
+
+] <graphics/iccor.png, id=956, 500.1084pt x 436.9926pt>
+File: graphics/iccor.png Graphic file (type png)
+
+<use graphics/iccor.png>
+Package pdftex.def Info: graphics/iccor.png used on input line 26.
+(pdftex.def)             Requested size: 276.559pt x 241.66025pt.
+
+Overfull \vbox (4.04944pt too high) detected at line 26
+ []
+
+[18
+
+ <C:/Dropbox/Work/Class/UBC/Personality/Intelligence_Personality/graphics/iccor
+.png>]
+(C:\Dropbox\Work\Class\UBC\Personality\Intelligence_Personality\IP_talk_Garriso
+n.vrb
+LaTeX Font Info:    Font shape `T1/ppl/bx/it' in size <10.95> not available
+(Font)              Font shape `T1/ppl/b/it' tried instead on input line 3.
+) [19
+
+] [20
+
+
+] <graphics/bwv.png, id=1110, 552.0625pt x 552.0625pt>
+File: graphics/bwv.png Graphic file (type png)
+
+<use graphics/bwv.png>
+Package pdftex.def Info: graphics/bwv.png used on input line 42.
+(pdftex.def)             Requested size: 245.83282pt x 245.8313pt.
+
+Overfull \vbox (8.22049pt too high) detected at line 42
+ []
+
+[21
+
+ <C:/Dropbox/Work/Class/UBC/Personality/Intelligence_Personality/graphics/bwv.p
+ng>]
+
+! Package array Error:  Illegal pream-token (D): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package array Error:  Illegal pream-token (.): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package array Error:  Illegal pream-token (.): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package array Error:  Illegal pream-token (-3): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package array Error:  Illegal pream-token (D): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package array Error:  Illegal pream-token (.): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package array Error:  Illegal pream-token (.): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package array Error:  Illegal pream-token (-3): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package array Error:  Illegal pream-token (D): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package array Error:  Illegal pream-token (.): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package array Error:  Illegal pream-token (.): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package array Error:  Illegal pream-token (-3): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package array Error:  Illegal pream-token (D): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package array Error:  Illegal pream-token (.): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package array Error:  Illegal pream-token (.): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package array Error:  Illegal pream-token (-3): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package array Error:  Illegal pream-token (D): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package array Error:  Illegal pream-token (.): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package array Error:  Illegal pream-token (.): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package array Error:  Illegal pream-token (-3): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package array Error:  Illegal pream-token (D): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package array Error:  Illegal pream-token (.): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package array Error:  Illegal pream-token (.): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package array Error:  Illegal pream-token (-3): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.69 \end{frame}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.69 \end{frame}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.69 \end{frame}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.69 \end{frame}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.69 \end{frame}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.69 \end{frame}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.69 \end{frame}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.69 \end{frame}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.69 \end{frame}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.69 \end{frame}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.69 \end{frame}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.69 \end{frame}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.69 \end{frame}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.69 \end{frame}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.69 \end{frame}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.69 \end{frame}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.69 \end{frame}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.69 \end{frame}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.69 \end{frame}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.69 \end{frame}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.69 \end{frame}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.69 \end{frame}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.69 \end{frame}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.69 \end{frame}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.69 \end{frame}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.69 \end{frame}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.69 \end{frame}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.69 \end{frame}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.69 \end{frame}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.69 \end{frame}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.69 \end{frame}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.69 \end{frame}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.69 \end{frame}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.69 \end{frame}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (440.03574pt too wide) in paragraph at lines 69--69
+ [] 
+ []
+
+[22
+
+])
+(C:\Dropbox\Work\Class\UBC\Personality\Intelligence_Personality\content/slides/
+Discussion.txt
+(C:\Dropbox\Work\Class\UBC\Personality\Intelligence_Personality\IP_talk_Garriso
+n.vrb) [23
+
+])
+(C:\Dropbox\Work\Class\UBC\Personality\Intelligence_Personality\content/slides/
+References.txt
+(C:\Dropbox\Work\Class\UBC\Personality\Intelligence_Personality\IP_talk_Garriso
+n.vrb)
+(C:\Dropbox\Work\Class\UBC\Personality\Intelligence_Personality\IP_talk_Garriso
+n.bbl
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 348.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1pcr.fd"
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)) [24
+
+] [25
+
+
+]
+[26
+
+
+] [27
+
+
+] [28
+
+
+] [29
+
+
+] [30
+
+
+] [31
+
+
+])
+\tf@nav=\write7
+\tf@toc=\write8
+\tf@snm=\write9
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 185.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 185.
 
 (C:\Dropbox\Work\Class\UBC\Personality\Intelligence_Personality\IP_talk_Garriso
 n.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 161.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 161.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 185.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 185.
 Package rerunfilecheck Info: File `IP_talk_Garrison.out' has not changed.
-(rerunfilecheck)             Checksum: AD50505CE76344B25FCC7373021E23A8;434.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 161.
+(rerunfilecheck)             Checksum: D071F10314A8E8D9B0C220F4BC6273A9;634.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 185.
  ) 
 Here is how much of TeX's memory you used:
- 22303 strings out of 493921
- 450830 string characters out of 3147269
- 566185 words of memory out of 3000000
- 25020 multiletter control sequences out of 15000+200000
- 19194 words of font info for 53 fonts, out of 3000000 for 9000
+ 24012 strings out of 493921
+ 478605 string characters out of 3147269
+ 605177 words of memory out of 3000000
+ 26550 multiletter control sequences out of 15000+200000
+ 45243 words of font info for 94 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 56i,19n,69p,552b,1216s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,19n,69p,551b,1219s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Files/M
-iKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam7.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
-pe1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palati
-no/uplri8a.pfb>
-Output written on IP_talk_Garrison.pdf (12 pages, 241263 bytes).
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbsy10.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cmextra/cmbsy8.pfb><C:/Program Files/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmmib10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/amsfonts/symbols/msam10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/symbols/msam7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/cou
+rier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplbi8a.pfb><C:/Program
+ Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 
+2.9/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on IP_talk_Garrison.pdf (31 pages, 1051206 bytes).
 PDF statistics:
- 541 PDF objects out of 1000 (max. 8388607)
- 33 named destinations out of 1000 (max. 500000)
- 104 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1719 PDF objects out of 1728 (max. 8388607)
+ 74 named destinations out of 1000 (max. 500000)
+ 138 words of extra memory for PDF output out of 10000 (max. 10000000)
 

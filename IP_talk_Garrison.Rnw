@@ -8,6 +8,23 @@
 \usepackage{apacite}
 \usepackage{natbib}
 \usepackage{wrapfig}
+%additional packages
+\usepackage{changepage}
+
+\usepackage{ragged2e}
+\usepackage{times} 
+\usepackage{amsmath,amsthm, amssymb, latexsym}
+\usepackage{exscale} \boldmath 
+\usepackage{booktabs, array}
+\usepackage{rotating} %sideways environment 
+\usepackage[english]{babel}
+\usepackage[latin1]{inputenc}
+\usepackage{xspace}
+\usepackage{url}
+\usepackage{hyperref}
+\usepackage{multicol}
+
+\usepackage{Sweave}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
@@ -73,16 +90,15 @@ library(knitr)
 library(ggplot2)
 library(effects)
 library(stargazer)
-
+library(psych)
+library(xtable)
+library(plyr)
+library(stringr)
 #FUNCTIONS
 source(paste0(file_drive,"Dropbox/Work/Templates/R/Functions/Mason_Functions.R"))
 
 @
 
-<<data, include=FALSE>>=
-#temp = list.files(path=data_folder,pattern="*.csv")
-#for (i in 1:length(temp)) assign(temp[i], read.csv(paste0(data_folder,temp[i])))
-@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %                 TITLE PAGE
@@ -112,22 +128,30 @@ source(paste0(file_drive,"Dropbox/Work/Templates/R/Functions/Mason_Functions.R")
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %                Measurement Side Note
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Measurement Assumption}
-%\input{content/slides/measurement.txt}
+\section{Intelligence vs. Personality}
+\subsection{Distinction}
+\input{content/slides/distinction.txt}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %                Integration with Personality Theory
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Integration with Personality Theory}
-%\input{content/slides/personality.txt}
+\subsection{Integration with Personality Theory}
+\input{content/slides/personality.txt}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %                Application
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Application}
 \subsection{Differential Epidemiology}
-%\input{content/slides/diffepi.txt}
+\input{content/slides/diffepi.txt}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                Discussion
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Discussion}
+\input{content/slides/Discussion.txt}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %                 REFERENCES
