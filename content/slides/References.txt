@@ -1,5 +1,4 @@
 \begin{frame}[fragile,allowframebreaks]{References}
-
 \bibliographystyle{apacite}
 \bibliography{IC_Modeling}
 \end{frame}

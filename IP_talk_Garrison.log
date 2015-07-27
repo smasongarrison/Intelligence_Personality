@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.12.26)  26 JUL 2015 23:40
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.12.26)  27 JUL 2015 00:06
 entering extended mode
 **IP_talk_Garrison.tex
 
@@ -1207,6 +1207,10 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
+
+Overfull \vbox (30.2674pt too high) detected at line 16
+ []
+
 [1{C:/Users/smaso_000/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 ])
@@ -1254,7 +1258,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-<graphics/Carroll_three_stratum.png, id=196, 759.83875pt x 347.2975pt>
+<graphics/Carroll_three_stratum.png, id=216, 759.83875pt x 347.2975pt>
 File: graphics/Carroll_three_stratum.png Graphic file (type png)
 
 <use graphics/Carroll_three_stratum.png>
@@ -1264,7 +1268,7 @@ Package pdftex.def Info: graphics/Carroll_three_stratum.png used on input line
 
 ! Misplaced alignment tab character &.
 l.20 \item Reading &
-                     Writing Ability (Grw)\\
+                     Writing Ability (Grw)\\~\\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1272,6 +1276,24 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.29 \framebreak\\
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: graphics/Carroll_three_stratum.png Graphic file (type png)
+<use graphics/Carroll_three_stratum.png>
+Package pdftex.def Info: graphics/Carroll_three_stratum.png used on input line 
+30.
+(pdftex.def)             Requested size: 307.28987pt x 140.45334pt.
 ) [5
 
 ] [6
@@ -1281,7 +1303,14 @@ might try typing `S' now just to see what is salvageable.
 
 
  <C:/Dropbox/Work/Class/UBC/Personality/Intelligence_Personality/graphics/Carro
-ll_three_stratum.png>] [8
+ll_three_stratum.png>]
+[8
+
+
+] [9
+
+
+] [10
 
 
 ])
@@ -1290,43 +1319,43 @@ References.txt
 (C:\Dropbox\Work\Class\UBC\Personality\Intelligence_Personality\IP_talk_Garriso
 n.vrb)
 (C:\Dropbox\Work\Class\UBC\Personality\Intelligence_Personality\IP_talk_Garriso
-n.bbl) [9
+n.bbl) [11
 
-] [10
+] [12
 
 
 ])
 \tf@nav=\write6
 \tf@toc=\write7
 \tf@snm=\write8
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 155.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 155.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 161.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 161.
 
 (C:\Dropbox\Work\Class\UBC\Personality\Intelligence_Personality\IP_talk_Garriso
 n.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 155.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 155.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 161.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 161.
 Package rerunfilecheck Info: File `IP_talk_Garrison.out' has not changed.
-(rerunfilecheck)             Checksum: 480B45DF6F2B04B889CDC2CD033FB6DD;284.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 155.
+(rerunfilecheck)             Checksum: AD50505CE76344B25FCC7373021E23A8;434.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 161.
  ) 
 Here is how much of TeX's memory you used:
- 22285 strings out of 493921
- 450611 string characters out of 3147269
- 565620 words of memory out of 3000000
- 25008 multiletter control sequences out of 15000+200000
+ 22303 strings out of 493921
+ 450830 string characters out of 3147269
+ 566185 words of memory out of 3000000
+ 25020 multiletter control sequences out of 15000+200000
  19194 words of font info for 53 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 56i,19n,69p,552b,1219s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,19n,69p,552b,1216s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
 s/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Files/M
 iKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam7.pfb><C:/Program Files/MiKTe
 X 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
 pe1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palati
 no/uplri8a.pfb>
-Output written on IP_talk_Garrison.pdf (10 pages, 220700 bytes).
+Output written on IP_talk_Garrison.pdf (12 pages, 241263 bytes).
 PDF statistics:
- 434 PDF objects out of 1000 (max. 8388607)
- 27 named destinations out of 1000 (max. 500000)
- 88 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 541 PDF objects out of 1000 (max. 8388607)
+ 33 named destinations out of 1000 (max. 500000)
+ 104 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -10,7 +10,7 @@ is the capacity to use reason, information, and experience. I like to think of i
 \end{itemize}\framebreak\\
 \item  Carroll Three-Stratum Theory (\citeyear{carroll1993human})\\~\\
 \begin{itemize}\item Hierarchical Structure\begin{enumerate}\item narrow (70),\\~\\ \item broad (10), and \\~\\\item general cognitive ability (1) \end{enumerate}\end{itemize}\end{itemize}
-\includegraphics<1>[width=1\textwidth]{Carroll_three_stratum}
+\includegraphics<1>[width=1\textwidth]{Carroll_three_stratum}\\\hfill{\tiny Image Source: Wikipedia.org}
 \framebreak\\
 \begin{itemize}\item Cattell-Horn-Carroll Theory\\
 is the integration of Cattell and Horn's theory within Carroll's structural model. The broad abilities are:\\
@@ -27,6 +27,6 @@ is the integration of Cattell and Horn's theory within Carroll's structural mode
 \end{enumerate}
 \end{itemize}
 \framebreak\\
-\includegraphics<1>[width=1\textwidth]{Carroll_three_stratum}
+\includegraphics<1>[width=1\textwidth]{Carroll_three_stratum}\\\hfill{\tiny Image Source: Wikipedia.org}
 
 \end{frame}
